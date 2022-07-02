@@ -1,0 +1,89 @@
+/* button */
+.button {
+    background-color: rgb(0, 170, 105);
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+
+
+.nav-ban {
+    background-color: rgba(236, 253, 242, 0.685);
+}
+
+/* navbar */
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navv {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 100px;
+}
+
+/* banner */
+.banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.banner-t {
+    color: rgb(199, 142, 36);
+}
+
+.banner-t2 {
+    color: rgb(0, 170, 105);
+}
+
+.banner-h {
+
+    font-weight: 1000;
+}
+
+/* stats */
+
+
+.stats {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.i-stat {
+
+    padding: 20px;
+    background-color: rgba(236, 253, 242, 0.685);
+}
+
+.i-stat:hover {
+    box-shadow: 0px 2px 4px rgb(224, 224, 224);
+    background-color: white;
+}
+
+/* card */
+
+.card-h {
+    margin-bottom: 50px;
+}
+
+.card {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(182, 181, 181);
+}
+
+.card-info {
+    padding-top: 20px;
+}
